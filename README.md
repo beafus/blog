@@ -4,9 +4,9 @@ This blogging platform offers two different pages. One administrative page to sa
 ## Administrators
 
 * **Administrators are able to use the admin section to upload a blog entry that consists of a title and blog text.**
- * This has been done through a single form that allows all these fields, and saving the blog file into a new folder for each new entry.
+ * This has been done through a single form that allows all these fields.Then the blog file is saved into a new folder for each new entry.
  * To upload a blog, they must type a title and a text. If any of them is missing an error message will appear saying: “You must enter a title and a post”.
- * Blogs entries is saved in files for safe keeping. Each one is stored in a different folder named “blogX”, being X  the blog number.
+ * Blogs entries are saved in files for safe keeping. Each one is stored in a different folder named “blogX”, being X  the blog number.
 * **Administrators are also be able to add an optional image to blog entries**
  * The image will be saved  to the same folder as the blog entries
 
